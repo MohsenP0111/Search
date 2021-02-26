@@ -1,0 +1,12 @@
+.search_box {
+  width: 30%;
+  /* height: 5vh; */
+  margin-top: 30px;
+  background: #fdfdfd;
+  display: block;
+  width: 50%;
+  padding: 1rem;
+  font-size: 1.2rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
